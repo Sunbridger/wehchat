@@ -1,0 +1,22 @@
+{
+  "name": "wehchat",
+  "version": "1.0.0",
+  "description": "乔乔乔测试微信机器人",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunbridger/wehchat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunbridger/wehchat/issues"
+  },
+  "homepage": "https://github.com/Sunbridger/wehchat#readme"
+}
